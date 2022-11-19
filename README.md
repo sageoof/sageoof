@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @sageoof
+- 👋 Hi, I’m Clyde and pursuing a CS degree at UCLA
 - 👀 I’m interested in learning how to code and helping to build a community
-- 🌱 I’m currently learning a little bit of coding and learned computer logic concepts. 
-- 💞️ I’m looking to collaborate on CliqueClassic
 - 📫 How to reach me viibeta1013@gmail.com
 
 <!---
